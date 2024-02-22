@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T06:22:23.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ULKf__BcvXGzxnPne4x8" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T21:26:15.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="UA0OhlLIPXkipvfK3BaN" version="23.0.2" type="github">
   <diagram name="Page-1" id="Kcuax7eKL4iZjcZTS28J">
-    <mxGraphModel dx="1266" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="469" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,7 +399,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Xdl2XCRkZXCm6vKFtQY-53" value="&lt;u&gt;LincenseNo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="928.9199999999998" y="320.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="886.5699999999998" y="359.23999999999995" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Xdl2XCRkZXCm6vKFtQY-54" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="2Xdl2XCRkZXCm6vKFtQY-53" target="2Xdl2XCRkZXCm6vKFtQY-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -525,12 +525,6 @@
             <mxPoint x="980" y="-59.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="38YA350PaGZFqjtqzyTA-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="38YA350PaGZFqjtqzyTA-1" target="2Xdl2XCRkZXCm6vKFtQY-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="38YA350PaGZFqjtqzyTA-1" value="username" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="359.24" width="90" height="40.63" as="geometry" />
-        </mxCell>
         <mxCell id="38YA350PaGZFqjtqzyTA-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="38YA350PaGZFqjtqzyTA-2" target="2Xdl2XCRkZXCm6vKFtQY-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -627,7 +621,7 @@
         <mxCell id="bg4bJy8hxQeYVwH3cUff-1" value="&lt;h1 style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; font-size: 14px;&quot;&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;ZoomRentals&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; background-color: transparent; font-family: Arial, sans-serif; color: rgb(28, 69, 135); vertical-align: baseline; font-size: 14px;&quot;&gt;COMP 421 Project - Group 15&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-family: Arial, sans-serif; color: rgb(28, 69, 135); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Rafi Latif (261120830)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-family: Arial, sans-serif; color: rgb(28, 69, 135); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Musab Umair (261017073)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-family: Arial, sans-serif; color: rgb(28, 69, 135); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Zuhayr Mahmood (261053810)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-family: Arial, sans-serif; color: rgb(28, 69, 135); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Muhammad Basel Ahsan (261042079)&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; font-size: 14px;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; font-size: 14px;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; font-size: 14px;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; font-size: 14px;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-e7bb68f3-7fff-7634-9ae2-a4d800d866e8&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1040" y="-520" width="426.88" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="CkxsvrCQ4MlHOolsRGWb-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=none;" edge="1" parent="1" source="6YHR2CK0whsPXYtTgxVG-35" target="puIFi8yKi52ajBFLeWZA-1">
+        <mxCell id="CkxsvrCQ4MlHOolsRGWb-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=none;" parent="1" source="6YHR2CK0whsPXYtTgxVG-35" target="puIFi8yKi52ajBFLeWZA-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="756" y="-119" as="sourcePoint" />
             <mxPoint x="550.52" y="-500" as="targetPoint" />
